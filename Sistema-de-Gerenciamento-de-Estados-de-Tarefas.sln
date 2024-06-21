@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema-de-Gerenciamento-de-Estados-de-Tarefas", "Sistema-de-Gerenciamento-de-Estados-de-Tarefas\Sistema-de-Gerenciamento-de-Estados-de-Tarefas.csproj", "{46F83483-D9B5-413A-A7C8-96615450ACB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F83483-D9B5-413A-A7C8-96615450ACB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F83483-D9B5-413A-A7C8-96615450ACB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F83483-D9B5-413A-A7C8-96615450ACB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F83483-D9B5-413A-A7C8-96615450ACB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0AC6D85-8549-433C-8A3E-69DCFCEDA62D}
+	EndGlobalSection
+EndGlobal
